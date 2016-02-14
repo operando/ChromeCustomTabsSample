@@ -27,4 +27,10 @@
         android:layout_height="wrap_content"
         android:onClick="onWebView"
         android:text="Open WebView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onIntent"
+        android:text="Open Web at Intent" />
 </LinearLayout>
